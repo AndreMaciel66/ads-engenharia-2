@@ -11,4 +11,4 @@
 
 ### Navegação
 
-#### <a href='/trabalhos/trabalho-1'>Trabalho 1 - Data Entrega: 02/04/2020</a>
+#### <a href='/ads-engenharia-2/trabalhos/trabalho-1'>Trabalho 1 - Data Entrega: 02/04/2020</a>
