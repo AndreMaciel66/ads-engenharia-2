@@ -1,0 +1,8 @@
+site_name: ADS 3o Período - ESOF II
+
+theme:
+  name: material
+use_directory_urls: false
+nav:
+  - Home: index.md
+  - Trabalho 1: trabalhos/trabalho-1.md
