@@ -84,7 +84,7 @@ a) Diagrama de classes foi criado para prever os comportados de objetos do siste
 
 **b) Neste tipo de diagrama faz-se necessário especificar atributos, métodos e nomes para as classes especificadas além de mostrar a qual cardinalidade pertencem as mesmas.**
 
-c) O diagrama de classe é idêntico ao diagrama de atividades, uma vez que o mesmo visa propor segmentos novos as funcionalidades do sistema, fazendo com que o sistema seja mais funcional. **
+c) O diagrama de classe é idêntico ao diagrama de atividades, uma vez que o mesmo visa propor segmentos novos as funcionalidades do sistema, fazendo com que o sistema seja mais funcional.
 
 d) Neste tipo de diagrama é demonstrado os aspectos internos do sistema como: funcionalidades, esquemas de banco de dados e triggers do modelo.
 
